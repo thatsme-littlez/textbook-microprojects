@@ -1,5 +1,5 @@
 # textbook-microprojects
-This is a collection of tiny projects derived from textbook prompts - to be continually added to as I work through Absolute C++ (Walter Savitch, 2016). 
+This is a collection of tiny projects derived from textbook prompts - to be continually added to as I work through _Absolute C++ _(Walter Savitch, 2016). 
 
 1. Simple time conversion
 2. Fruit and veggie bundle
