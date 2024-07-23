@@ -73,7 +73,7 @@ void answerQuestion(int& fileIteration)
         newLine(inStream, outStream, fileIteration, answer);  // TODO: correct order - before getline, correct?  ALSO: not sure how to optimize this, but this will have to do for now (for each answer)
         (getline(inStream, answer));
 
-        cout << answer << endl; // TODO: placement in context of above
+        cout << answer << endl; // TODO: placement in context of above; fdsfdffd
     } while (true);
 }
 
